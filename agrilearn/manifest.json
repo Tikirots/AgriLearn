@@ -1,0 +1,9 @@
+{
+  "name": "AgriLearn Training Portal",
+  "short_name": "AgriLearn",
+  "start_url": "/agrilearn/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "icons": []
+}
